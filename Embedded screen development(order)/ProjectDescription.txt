@@ -1,0 +1,52 @@
+I am needing a ~4.5" screen module developed for a system for a low power system to display some text as well as logos and a graph widget (for live data plotting).
+The system must be able to power down completely and power up with data being fed to it via another microcontroller (Uart, I2C, or SPI interface). This will be to conserve power during long periods of inactivity, the power up sequence can be either through complete power off control from a second controller or a signal that will allow for a extreme low power state (GPIO or such).
+
+We require a system framework to be coded in microchip MPLab X and to have an easily modifiable coding format for text, logos, and graphs so that it can be altered later down the track without too much effort. This should be formatted in a “widget” style format to allow for positioning and components to be added and modified with ease.
+
+I do not currently have a circuit or development platform in mind so that can be at your discretion, the only part that is fixed is that I would like a PIC microcontroller to be used as that is the company standard.
+The PCB design for our system can be done in house to fit the specifications of the housing but a schematic of the system would be good.
+
+This will be the version 2 of a system that we have previously developed, we are looking to rebuild from the ground up, but the initial interface is shown in the pictures. it allows for a few different display pages but has a primary display with current live data with a graph of the readings at the bottom (no data to display in the pictures provided).
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+I am needing a ~4.5" screen module developed for a system for a low power system to display some text as well as logos and a graph widget (for live data plotting).
+The system must be able to power down completely and power up with data being fed to it via another microcontroller (Uart, I2C, or SPI interface). 
+This will be to conserve power during long periods of inactivity, the power up sequence can be either through complete power off control from a second controller or a signal that will allow for a extreme low power state (GPIO or such).
+We require a system framework to be coded in microchip MPLab X and to have an easily modifiable coding format for text, logos, and graphs so that it can be altered later down the track without too much effort. 
+This should be formatted in a “widget” style format to allow for positioning and components to be added and modified with ease.
+
+I do not currently have a circuit or development platform in mind so that can be at your discretion, the only part that is fixed is that I would like a PIC microcontroller to be used as that is the company standard.
+The PCB design for our system can be done in house to fit the specifications of the housing but a schematic of the system would be good.
+
+
+The major scope of the project was outlined in the breif, some of the key points is that this system will be run from a 5V supply and has a key focus on low power.
+The screen will also have to be readable through water (we have a housing for electronics), this will just involve testing on our side to ensure the correct brightness and contrast, but we can give you the specs if the current screen for reference.
+
+
+And sorry I did not answer your question earlier, but yes we will pass the information that will need to be displayed from another microcontroller, this is so that the screen module can be an isolated system that can be completely powered down doing long periods of inactivity (this will be given as a gpio signal from the other microcontroller)
+
+
+For the initial work, once you get the autotracker working so that you don't miss out on any hours, we would like you to look at designing based on the 3.4" TFT screen that you previously sent the link through for.
+Could you please make a selection on the PIC controller that you would use and once the initial selections have been made please let me know your product selection choices.
+
+
+I can send through photos and dimensions now
+
+If there is an alternative screen that you would prefer I would be interested in hearing about that option as well
+
+Here is the housing that we have, it is a subsea instrumentation housing, the screen is to fill the size of the porthole and allow information to be read off via a camera under the water. 
+This is something that we have been doing, so the concept is fine, but it does mean that the text will have to be fairly large to be read nicely
+
+
+https://www.szmaclight.com/Round-tft-lcd-display-module_1.html
+Round TFT LCD Display 1.2" - 5" | Maclight
+
+
+https://www.szmaclight.com/product/3-4-inch-round-lcd-display-tft-800-800.html
+3.4 inch round lcd display tft 800x800 2-Lane MIPI ILI9881C
+
+May I ask what IDE you used for that project, and if you have had any other work with similar screens of larger sizes?
+The total screen that we will need is to cover an 80mm diameter.

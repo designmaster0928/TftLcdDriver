@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH19SC_32S_0.5SH_09_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "FH19SC-32S-0.5SH(09)" (!) = "", "FH19SC32S05SH09", "Other", "798-FH19SC32S05SH09", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH19SC-32S-0.5SH09?qs=vnk2wBG9e14Nd84%2F2PB3lQ%3D%3D", "FFC & FPC Connectors 32P SMT HORIZONTAL .5MM PITCH", "https://www.hirose.com/en/product/document?clcode=CL0580-0514-7-09&productname=FH19SC-32S-0.5SH(09)&series=FH19C__FH19SC&documenttype=2DDrawing&lang=en&documentid=0000990627", "1.6 mm"
+END_PART
+
+END.

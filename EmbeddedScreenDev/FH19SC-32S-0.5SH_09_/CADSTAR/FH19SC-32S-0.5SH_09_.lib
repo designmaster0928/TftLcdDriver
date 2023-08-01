@@ -1,0 +1,17 @@
+.FH19SC-32S-0.5SH_09_ :1 ;FFC & FPC Connectors 32P SMT HORIZONTAL .5MM PITCH
+FH19SC32S05SH09
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=19 20=20 21=21 22=22 23=23 24=24 25=25 26=26 27=27 28=28 29=29 30=30 31=31 32=32 33=MP1 34=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16" 17="17" 18="18" 19="19" 20="20" 21="21" 22="22" 23="23" 24="24" 25="25" 26="26" 27="27" 28="28" 29="29" 30="30" 31="31" 32="32" 33="MP1" 34="MP2"
+*MXP 34
+*DFN FH19SC-32S-0.5SH_09_
+~!Mouser Part Number (798-FH19SC32S05SH09)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH19SC-32S-0.5SH09?qs=vnk2wBG9e14Nd84%2F2PB3lQ%3D%3D)
+~!Manufacturer_Name (Hirose)
+~!Manufacturer_Part_Number (FH19SC-32S-0.5SH(09))
+~!Link Datasheet (https://www.hirose.com/en/product/document?clcode=CL0580-0514-7-09&productname=FH19SC-32S-0.5SH(09)&series=FH19C__FH19SC&documenttype=2DDrawing&lang=en&documentid=0000990627)
+~!Height (1.6mm)
+~!3D_Model (FH19SC-32S-0.5SH_09_)
+FH19SC-32S-0.5SH_09_
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 
